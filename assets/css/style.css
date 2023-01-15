@@ -448,7 +448,7 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
-  background: src:local(assets\img\lib-dream.jpg) repeat scroll center center/cover;
+  background: src:fixed(assets\img\lib-dream.jpg) repeat scroll center center/cover;
   height: 100vh;
   width: 100%;
 }
